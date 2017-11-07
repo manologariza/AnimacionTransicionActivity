@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AnimacionTransicionActivity</string>
+    <string name="zoomForward">Zoom(forward)</string>
+    <string name="left">Left</string>
+    <string name="fade">Fade</string>
+    <string name="byDefault">Default(forward)</string>
+    <string name="zoomBack">Zoom(back)</string>
+    <string name="right">Right</string>
+    <string name="byDefaultBack">Default(back)</string>
+
+</resources>

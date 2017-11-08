@@ -3,9 +3,11 @@
 
     <translate
         xmlns:android="http://schemas.android.com/apk/res/android"
-        android:duration="6500"
+        android:duration="500"
         android:fromXDelta="0"
-        android:toXDelta="-50%p"
+        android:toXDelta="-100%p"
+        android:fromYDelta="0"
+        android:toYDelta="-100%p"
         android:interpolator="@android:anim/bounce_interpolator" />
 
 </set>

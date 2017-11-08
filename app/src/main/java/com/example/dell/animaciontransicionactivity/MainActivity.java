@@ -38,4 +38,12 @@ public class MainActivity extends AppCompatActivity {
 
         //Se parecerá a left_in-left_out (los hacemos diferentes por ejemplo cambiando el tiempo de la transición)
     }
+
+    public void oblicuo(View button)
+    {
+        startActivity(new Intent(this, SecondActivity.class));
+        overridePendingTransition(R.anim.oblicuo_in, R.anim.oblicuo_out);
+
+
+    }
 }
